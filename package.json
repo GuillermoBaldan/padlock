@@ -1,0 +1,23 @@
+{
+  "name": "padlock",
+  "version": "1.0.0",
+  "description": "It's a Node project for securing files. Using a command: 'lock namefile,' a picture of the 'namefile' is taken and saved. With the 'restore' command, photos of all the files that have been locked are automatically loaded",
+  "main": "padlock.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuillermoBaldan/padlock.git"
+  },
+  "keywords": [
+    "security",
+    "file-control"
+  ],
+  "author": "Guillermo Baldán López",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GuillermoBaldan/padlock/issues"
+  },
+  "homepage": "https://github.com/GuillermoBaldan/padlock#readme"
+}
